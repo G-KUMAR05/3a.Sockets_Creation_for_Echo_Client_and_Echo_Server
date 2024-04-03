@@ -37,7 +37,8 @@ if not data:
 
 break
 
-conn.sendall(data)```
+conn.sendall(data)
+```
 
 SERVER
 ```import socket
